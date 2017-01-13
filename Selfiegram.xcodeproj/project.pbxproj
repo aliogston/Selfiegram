@@ -10,8 +10,9 @@
 		6126CCE01E28591D000EA843 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6126CCDF1E28591D000EA843 /* AppDelegate.swift */; };
 		6126CCE21E28591D000EA843 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6126CCE11E28591D000EA843 /* ViewController.swift */; };
 		6126CCE51E28591D000EA843 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6126CCE31E28591D000EA843 /* Main.storyboard */; };
-		6126CCE71E28591D000EA843 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6126CCE61E28591D000EA843 /* Assets.xcassets */; };
 		6126CCEA1E28591D000EA843 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6126CCE81E28591D000EA843 /* LaunchScreen.storyboard */; };
+		6126CCF41E285DB0000EA843 /* iOS-Selfiegram-Images-master in Resources */ = {isa = PBXBuildFile; fileRef = 6126CCF31E285DB0000EA843 /* iOS-Selfiegram-Images-master */; };
+		6126CCF81E2861B6000EA843 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6126CCF71E2861B6000EA843 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +20,10 @@
 		6126CCDF1E28591D000EA843 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6126CCE11E28591D000EA843 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6126CCE41E28591D000EA843 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6126CCE61E28591D000EA843 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6126CCE91E28591D000EA843 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6126CCEB1E28591D000EA843 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6126CCF31E285DB0000EA843 /* iOS-Selfiegram-Images-master */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "iOS-Selfiegram-Images-master"; path = "../../../Downloads/iOS-Selfiegram-Images-master"; sourceTree = "<group>"; };
+		6126CCF71E2861B6000EA843 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 				6126CCDF1E28591D000EA843 /* AppDelegate.swift */,
 				6126CCE11E28591D000EA843 /* ViewController.swift */,
 				6126CCE31E28591D000EA843 /* Main.storyboard */,
-				6126CCE61E28591D000EA843 /* Assets.xcassets */,
+				6126CCF71E2861B6000EA843 /* Assets.xcassets */,
+				6126CCF31E285DB0000EA843 /* iOS-Selfiegram-Images-master */,
 				6126CCE81E28591D000EA843 /* LaunchScreen.storyboard */,
 				6126CCEB1E28591D000EA843 /* Info.plist */,
 			);
@@ -124,8 +127,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6126CCEA1E28591D000EA843 /* LaunchScreen.storyboard in Resources */,
-				6126CCE71E28591D000EA843 /* Assets.xcassets in Resources */,
 				6126CCE51E28591D000EA843 /* Main.storyboard in Resources */,
+				6126CCF81E2861B6000EA843 /* Assets.xcassets in Resources */,
+				6126CCF41E285DB0000EA843 /* iOS-Selfiegram-Images-master in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
